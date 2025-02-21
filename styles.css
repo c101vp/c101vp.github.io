@@ -1,0 +1,16 @@
+body {
+    display: flex; /* Fit screen */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    Height: 100vh; /* Viewport Height */
+    background-color: #363255;
+}
+
+.image-container {
+    text-align: center
+}
+
+img {
+    max-width: 100%
+    height: auto
+}
